@@ -1,9 +1,9 @@
-# package_name
-
+# img-processing-pack
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package img-processing-pack is used to:
+```bash
+Process images with Python
+```
 
 ## Installation
 
